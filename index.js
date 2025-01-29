@@ -1,6 +1,6 @@
-function sayHello(name, surname) {
+function sayHello(name, surname, someOtherWord) {
     // Any comment change
-    console.log(`HelloHA${name} ${surname}`);
+    console.log(`HelloHA${name} ${surname} ${someOtherWord}`);
 }
 //end function
 
